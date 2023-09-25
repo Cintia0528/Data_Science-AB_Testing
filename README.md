@@ -34,7 +34,7 @@ Hypothesis Testing:
 * Adjust for cumulated alpha error with Bonferroni correction
 
 ## Colab Files
-In the "MSU Library" file imported the data, each button its own csv. All calculations are included. Drop-off and Homepage return rates were given by the MSU team. 
+In the ["MSU Library"](6_MSU_Library_Case_Study.ipynb) file imported the data, each button its own csv. All calculations are included. Drop-off and Homepage return rates were given by the MSU team. 
 
 ### Additional Notes:
 The data was highly skewed; (10283 visits on "Interact" vs the others versions recieved visits in the 2000-3000 range). 
